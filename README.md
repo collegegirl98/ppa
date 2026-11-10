@@ -51,6 +51,7 @@ Technology Stack
 
 <img width="643" height="471" alt="Screenshot 2026-11-09 094036" src="https://github.com/user-attachments/assets/cc61a03b-f4fb-41e8-b0fd-d540704971ff" />
 
+Team Roles and Responsibilities
 
 Product Owner / Frontend / Backend Developer (Everything): Taylor Stargell – Defines project requirements and builds Thymeleaf and Bootstrap pages.
 
