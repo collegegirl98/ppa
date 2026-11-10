@@ -1,4 +1,4 @@
-Pet Planet Adoption Puppy Directory CRUD Application
+Pet Planet Adoption Puppy Portal CRUD Application
 
 Purpose of Application
 
